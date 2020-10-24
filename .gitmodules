@@ -5,7 +5,7 @@
 	ignore = dirty
 [submodule "external/Azure-Spatial-Anchors-Samples"]
 	path = external/Azure-Spatial-Anchors-Samples
-	url = https://github.com/azure/azure-spatial-anchors-samples
+	url = https://github.com/akihiro0105/azure-spatial-anchors-samples
 	ignore = dirty
 [submodule "external/gamecapture"]
 	path = external/gamecapture
