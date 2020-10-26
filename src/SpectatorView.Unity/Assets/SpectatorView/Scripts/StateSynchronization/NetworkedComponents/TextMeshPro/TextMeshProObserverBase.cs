@@ -60,7 +60,7 @@ namespace Microsoft.MixedReality.SpectatorView
                 TextMeshObserver.enableKerning = values[4];
                 TextMeshObserver.enableWordWrapping = values[5];
                 TextMeshObserver.extraPadding = values[6];
-                TextMeshObserver.ignoreRectMaskCulling = values[7];
+                //TextMeshObserver.ignoreRectMaskCulling = values[7];
 
                 values = Unpack(message.ReadByte());
                 TextMeshObserver.ignoreVisibility = values[0];
